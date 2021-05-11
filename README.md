@@ -1,7 +1,7 @@
 # GitHandson
 
 
-# 1) Diiference between Git and SVN
+# 1) Difference between Git and SVN
 
   GIT: Git is an open-source distributed vice control system developed by Linus Torvalds in 2005. Its emphasis on speed and data integrity in which there is no centralized     connectivity is needed. It is powerful and cheap branching with easy merge in which each developer has his repository and have a local copy in which they can change history. It  supports non-linear development branches and applications with a large number of codes files.
     
